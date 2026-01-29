@@ -1,0 +1,16 @@
+O java é case sensitive, então variaveis com letras maisculas e minusculas são diferentes
+
+class = declaração da classe
+HelloWorld = nome da classe
+
+public static void main(String[] args) {
+System.out.println("Hello World"); = método, ele é como se fosse o ponto de entrada do programa 
+
+public static = são modificadores de acesso do método
+void = tipo de retorno do método, no caso ele não esta retornando nada então ele é "void"
+main = nome do metodo nesse caso ele sempre será main por ser o metodo principal, mas ele pode ter o nome que você
+quiser
+(String [] args) = eles são parametros ou os argumentos do metodo
+System.out.println("hello World") = esse é o nosso código funcional
+{} = são os nossos delimitadores de  bloco, então sempre que se abre e fecha chaves são um bloco de código
+no proximo bloco terá que abrir e fechar chaves novamente. 
